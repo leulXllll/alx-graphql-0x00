@@ -1,0 +1,1 @@
+This folders includes each graphql quer for episodes

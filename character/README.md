@@ -1,0 +1,1 @@
+1. The character folder include the graphql query in https://rickandmortyapi.com/graphql and their response 
